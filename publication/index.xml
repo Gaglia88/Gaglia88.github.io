@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Luca Gagliardelli</title>
+    <link>https://example.com/publication/</link>
+      <atom:link href="https://example.com/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://example.com/publication/</link>
+    </image>
+    
+    <item>
+      <title>ECDP: A Big Data Platform for the Smart Monitoring of Local Energy Communities</title>
+      <link>https://example.com/publication/dblp-confedbt-gagliardelli-zbs-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confedbt-gagliardelli-zbs-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Supervised Meta-blocking</title>
+      <link>https://example.com/publication/dblp-journalspvldb-gagliardelli-psb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-journalspvldb-gagliardelli-psb-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Supervised Meta-blocking (technical report)</title>
+      <link>https://example.com/publication/dblp-journalscorrabs-2204-08801/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-journalscorrabs-2204-08801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Entity Resolution with Node Embeddings</title>
+      <link>https://example.com/publication/dblp-confsebd-simonini-grzsabb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confsebd-simonini-grzsabb-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible experiments on Three-Dimensional Entity Resolution with JedAI</title>
+      <link>https://example.com/publication/dblp-journalsis-mandilaras-0-gstg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-journalsis-mandilaras-0-gstg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Case for Multi-task Active Learning Entity Resolution (Discussion Paper)</title>
+      <link>https://example.com/publication/dblp-confsebd-simonini-sgzbb-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confsebd-simonini-sgzbb-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emphBLAST2: An Efficient Technique for Loose Schema Information Extraction from Heterogeneous Big Data Sources</title>
+      <link>https://example.com/publication/dblp-journalsjdiq-beneventano-bgs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-journalsjdiq-beneventano-bgs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RulER: Scaling Up Record-level Matching Rules</title>
+      <link>https://example.com/publication/dblp-confedbt-gagliardelli-sb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confedbt-gagliardelli-sb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Up Record-level Matching Rules</title>
+      <link>https://example.com/publication/dblp-confsebd-gagliardelli-sb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confsebd-gagliardelli-sb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional Entity Resolution with JedAI</title>
+      <link>https://example.com/publication/dblp-journalsis-papadakis-mgstgb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-journalsis-papadakis-mgstgb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entity Resolution and Data Fusion: An Integrated Approach</title>
+      <link>https://example.com/publication/dblp-confsebd-beneventano-bgs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confsebd-beneventano-bgs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling entity resolution: A loosely schema-aware approach</title>
+      <link>https://example.com/publication/dblp-journalsis-simonini-gbj-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-journalsis-simonini-gbj-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SparkER: Scaling Entity Resolution in Spark</title>
+      <link>https://example.com/publication/dblp-confedbt-gagliardelli-sbb-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confedbt-gagliardelli-sbb-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Loosely Schema-aware Entity Resolution with User Interaction</title>
+      <link>https://example.com/publication/dblp-confieeehpcs-simonini-gzb-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confieeehpcs-simonini-gzb-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Data Integration to Big Data Integration</title>
+      <link>https://example.com/publication/dblp-bookssp-18-bergamaschi-bmm-0-opvszgm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-bookssp-18-bergamaschi-bmm-0-opvszgm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Improve Set Similarity Join Based on Prefix Approach in Distributed Environment</title>
+      <link>https://example.com/publication/dblp-confieeehpcs-zhu-gsb-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confieeehpcs-zhu-gsb-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Italian FSHD registry: An enhanced data integration and analytics framework for smart health care</title>
+      <link>https://example.com/publication/dblp-confrtsi-orsini-cmggmt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confrtsi-orsini-cmggmt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Driving Innovation in Youth Policies with Open Data</title>
+      <link>https://example.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data for Improving Youth Policies</title>
+      <link>https://example.com/publication/dblp-confic-3-k-beneventano-bgp-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://example.com/publication/dblp-confic-3-k-beneventano-bgp-15/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
