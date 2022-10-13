@@ -2,109 +2,109 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 | Luca Gagliardelli</title>
-    <link>https://www.lucagagliardelli.com/publication-type/1/</link>
-      <atom:link href="https://www.lucagagliardelli.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://www.lucagagliardelli.com/publication-type/1/</link>
+      <atom:link href="http://www.lucagagliardelli.com/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
     <description>1</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://www.lucagagliardelli.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <url>http://www.lucagagliardelli.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>1</title>
-      <link>https://www.lucagagliardelli.com/publication-type/1/</link>
+      <link>http://www.lucagagliardelli.com/publication-type/1/</link>
     </image>
     
     <item>
       <title>ECDP: A Big Data Platform for the Smart Monitoring of Local Energy Communities</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-zbs-22/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-zbs-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-zbs-22/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-zbs-22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Progressive Entity Resolution with Node Embeddings</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-grzsabb-22/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-grzsabb-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-grzsabb-22/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-grzsabb-22/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Case for Multi-task Active Learning Entity Resolution (Discussion Paper)</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-sgzbb-21/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-sgzbb-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-sgzbb-21/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-sgzbb-21/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RulER: Scaling Up Record-level Matching Rules</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sb-20/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sb-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sb-20/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sb-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Scaling Up Record-level Matching Rules</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-sb-20/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-sb-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-sb-20/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-sb-20/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entity Resolution and Data Fusion: An Integrated Approach</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confsebd-beneventano-bgs-19/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confsebd-beneventano-bgs-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confsebd-beneventano-bgs-19/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confsebd-beneventano-bgs-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>SparkER: Scaling Entity Resolution in Spark</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sbb-19/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sbb-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sbb-19/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sbb-19/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Enhancing Loosely Schema-aware Entity Resolution with User Interaction</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confieeehpcs-simonini-gzb-18/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confieeehpcs-simonini-gzb-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confieeehpcs-simonini-gzb-18/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confieeehpcs-simonini-gzb-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>How Improve Set Similarity Join Based on Prefix Approach in Distributed Environment</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confieeehpcs-zhu-gsb-18/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confieeehpcs-zhu-gsb-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confieeehpcs-zhu-gsb-18/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confieeehpcs-zhu-gsb-18/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The Italian FSHD registry: An enhanced data integration and analytics framework for smart health care</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confrtsi-orsini-cmggmt-17/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confrtsi-orsini-cmggmt-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confrtsi-orsini-cmggmt-17/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confrtsi-orsini-cmggmt-17/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Driving Innovation in Youth Policies with Open Data</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Open Data for Improving Youth Policies</title>
-      <link>https://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15/</link>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
-      <guid>https://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15/</guid>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15/</guid>
       <description></description>
     </item>
     
