@@ -2,24 +2,44 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.lucagagliardelli.com/publication-type/1/</loc>
+    <lastmod>2023-10-16T09:16:24+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication-type/2/</loc>
     <lastmod>2023-01-16T10:51:09+01:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-type/5/</loc>
+    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/gagliardelli-2023-big/</loc>
     <lastmod>2023-01-16T10:51:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-0-sb-23/</loc>
+    <lastmod>2023-10-16T09:16:24+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/dblp-confdawak-aslam-sgmb-23/</loc>
+    <lastmod>2023-10-16T09:16:24+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/</loc>
-    <lastmod>2023-01-16T10:51:09+01:00</lastmod>
+    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/basidati-2023/</loc>
+    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication_types/</loc>
-    <lastmod>2023-01-16T10:51:09+01:00</lastmod>
+    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/</loc>
-    <lastmod>2023-01-16T10:51:09+01:00</lastmod>
+    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/talk/generalized-supervised-meta-blocking-vldb-2022/</loc>
@@ -32,10 +52,6 @@
   </url><url>
     <loc>http://www.lucagagliardelli.com/talk/ecdp-dataplat-2022/</loc>
     <lastmod>2022-03-29T11:55:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://www.lucagagliardelli.com/publication-type/1/</loc>
-    <lastmod>2022-09-21T16:15:54+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-zbs-22/</loc>
