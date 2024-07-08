@@ -5,12 +5,36 @@
     <link>http://www.lucagagliardelli.com/</link>
       <atom:link href="http://www.lucagagliardelli.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Gagliardelli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.lucagagliardelli.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Luca Gagliardelli</title>
       <link>http://www.lucagagliardelli.com/</link>
     </image>
+    
+    <item>
+      <title>A Novel Methodology for Topic Identification in Hadith</title>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confircdl-aftar-ggrb-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confircdl-aftar-ggrb-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GSM: A generalized approach to Supervised Meta-blocking for scalable entity resolution</title>
+      <link>http://www.lucagagliardelli.com/publication/dblp-journalsis-gagliardelli-psbp-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-journalsis-gagliardelli-psbp-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stream-aware indexing for distributed inequality join processing</title>
+      <link>http://www.lucagagliardelli.com/publication/aslam-2024102425/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aslam-2024102425/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A big data platform exploiting auditable tokenization to promote good practices inside local energy communities</title>
@@ -21,10 +45,34 @@
     </item>
     
     <item>
+      <title>A Big Data Platform for the Management of Local Energy Communities Data</title>
+      <link>http://www.lucagagliardelli.com/publication/dblp-confbigdataconf-bergamaschi-g-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-confbigdataconf-bergamaschi-g-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A general approach to Supervised Meta-Blocking</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-0-sb-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-0-sb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DXP: Billing Data Preparation for Big Data Analytics</title>
+      <link>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-12902/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-12902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Dataframe Libraries for Data Preparation on a Single Machine</title>
+      <link>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-11122/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-11122/</guid>
       <description></description>
     </item>
     

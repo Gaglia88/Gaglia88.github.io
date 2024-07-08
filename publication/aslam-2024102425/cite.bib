@@ -1,0 +1,13 @@
+@article{ASLAM2024102425,
+ abstract = {Inequality join is an operator to join data on inequality conditions and it is a fundamental building block for applications. While methods and optimizations exist for efficient inequality join in batch processing, little attention has been given to its streaming version, particularly to large-scale data-intensive applications that run on Distributed Stream Processing Systems (DSPSs). Designing an inequality join in streaming and distributed settings is not an easy task: (i) indexes have to be employed to efficiently support inequality-based comparisons, but the continuous stream of data imposes continuous insertions, updates, and deletions of elements in the indexes—hence a huge overhead for the DSPSs; (ii) oftentimes real data is skewed, which makes indexing even more challenging. To address these challenges, we propose the Stream-Aware inequality join (STA), an indexing method that can reduce redundancy and index update overhead. STA builds a separate in-memory index structure for hotkeys, i.e., the most frequently used keys, which are automatically identified with an efficient data sketch. On the other hand, the cold keys are treated using a linked set of index structures. In this way, STA avoids many superfluous index updates for frequent items. Finally, we implement four state-of-the-art inequality join solutions for a widely employed DSPS (Apache Storm) and compare their performance with STA on four real-world data sets and a synthetic one. The results of our experimental evaluation reveal that our stream-aware approach outperforms existing solutions.},
+ author = {Adeel Aslam and Giovanni Simonini and Luca Gagliardelli and Luca Zecchini and Sonia Bergamaschi},
+ doi = {https://doi.org/10.1016/j.is.2024.102425},
+ issn = {0306-4379},
+ journal = {Information Systems},
+ keywords = {Distributed stream processing system, Inequality join, Btree indexing, Augmented sketch, Skewed data distribution},
+ pages = {102425},
+ title = {Stream-aware indexing for distributed inequality join processing},
+ url = {https://www.sciencedirect.com/science/article/pii/S0306437924000838},
+ year = {2024}
+}
+

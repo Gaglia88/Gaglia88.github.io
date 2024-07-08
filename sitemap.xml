@@ -3,11 +3,59 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://www.lucagagliardelli.com/publication-type/1/</loc>
-    <lastmod>2023-10-16T09:16:24+02:00</lastmod>
+    <lastmod>2024-07-08T15:03:56+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication-type/2/</loc>
-    <lastmod>2023-01-16T10:51:09+01:00</lastmod>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/dblp-confircdl-aftar-ggrb-24/</loc>
+    <lastmod>2024-07-08T15:03:56+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/tag/augmented-sketch/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/tag/btree-indexing/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/tag/distributed-stream-processing-system/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/dblp-journalsis-gagliardelli-psbp-24/</loc>
+    <lastmod>2024-07-08T15:03:51+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/tag/inequality-join/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication_types/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/tag/skewed-data-distribution/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/aslam-2024102425/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/tags/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication-type/5/</loc>
@@ -18,27 +66,27 @@
     <lastmod>2023-01-16T10:51:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/dblp-confbigdataconf-bergamaschi-g-23/</loc>
+    <lastmod>2024-07-08T15:03:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-0-sb-23/</loc>
     <lastmod>2023-10-16T09:16:24+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-12902/</loc>
+    <lastmod>2024-07-08T15:03:54+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-11122/</loc>
+    <lastmod>2024-07-08T15:03:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confdawak-aslam-sgmb-23/</loc>
     <lastmod>2023-10-16T09:16:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://www.lucagagliardelli.com/</loc>
-    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/basidati-2023/</loc>
-    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://www.lucagagliardelli.com/publication_types/</loc>
-    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://www.lucagagliardelli.com/publication/</loc>
     <lastmod>2023-10-16T09:17:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -138,9 +186,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://www.lucagagliardelli.com/tags/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>
