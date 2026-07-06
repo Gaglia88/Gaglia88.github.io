@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>article-journal | Luca Gagliardelli</title>
+    <link>http://www.lucagagliardelli.com/publication-type/article-journal/</link>
+      <atom:link href="http://www.lucagagliardelli.com/publication-type/article-journal/index.xml" rel="self" type="application/rss+xml" />
+    <description>article-journal</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lucagagliardelli.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>article-journal</title>
+      <link>http://www.lucagagliardelli.com/publication-type/article-journal/</link>
+    </image>
+    
+    <item>
+      <title>Versatile Sketch-Based Attribute Filtering for Hybrid Vector Search</title>
+      <link>http://www.lucagagliardelli.com/publication/aslam-2026-versatile/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aslam-2026-versatile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AZIM: Arabic-Centric Zero-Shot Inference for Multilingual Topic Modeling With Enhanced Performance on Summarized Text</title>
+      <link>http://www.lucagagliardelli.com/publication/aftar-2025-azim/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aftar-2025-azim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital maktaba project: Toward a metadata-driven, llm-assisted framework for arabic digital libraries</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2025-digital/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2025-digital/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

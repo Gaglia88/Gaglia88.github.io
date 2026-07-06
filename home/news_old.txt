@@ -1,0 +1,8 @@
+* **[Sept '24]** Our paper entitled *"RoBERT2VecTM: A Novel Approach for Topic Extraction in Islamic Studies"* was accepted at EMNLP 2024 (findings track).
+* **[Jul '24]** Our paper entitled *"Stream-aware indexing for distributed inequality join processing"* was accepted for publication in the scientific journal Information Systems. [LINK](https://doi.org/10.1016/j.is.2024.102425)
+* **[Dec '23]** I obtained from MUR (Italian Ministry for Universities and Research) the National Scientific qualification as associate professor in the Italian higher education for the disciplinary field 09/H1 – Information processing systems.
+* **[Oct '23]** Our paper entitled *"GSM: A Generalized Approach to Supervised Meta-blocking for Scalable Entity Resolution"* was accepted for publication in the scientific journal Information Systems.
+* **[May '23]** Our short paper entitled *"HKS: Efficient Data Partitioning for Stateful Streaming"* was accepted at DAWAK 2023.
+* **[Dec '22]** Our paper entitled *"A Big Data Platform Exploiting Auditable Tokenization to Promote Good Practices inside Local Energy Communities"* was accepted for publication in the scientific journal Future Generation Computer Systems.
+* **[Oct '22]** I received a research grant of 9200€ from the engineering department of the University of Modena and Reggio Emilia (FAR) for my research project about data cleaning.
+* **[Apr '22]** Our research paper entitled *"Generalized Supervised Meta-blocking", L. Gagliardelli, G. Papadakis, G. Simonini, S. Bergamaschi, T. Palpanas* was accepted at VLDB 2022.

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>paper-conference | Luca Gagliardelli</title>
+    <link>http://www.lucagagliardelli.com/publication-type/paper-conference/</link>
+      <atom:link href="http://www.lucagagliardelli.com/publication-type/paper-conference/index.xml" rel="self" type="application/rss+xml" />
+    <description>paper-conference</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://www.lucagagliardelli.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>paper-conference</title>
+      <link>http://www.lucagagliardelli.com/publication-type/paper-conference/</link>
+    </image>
+    
+    <item>
+      <title>Generative ai for islamic texts: The eman framework for mitigating gpt hallucinations</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2025-generative/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2025-generative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Robert2vectm: A novel approach for topic extraction in islamic studies</title>
+      <link>http://www.lucagagliardelli.com/publication/aftar-2024-robert-2-vectm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aftar-2024-robert-2-vectm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Generative AI on Islamic Studies: Case Analysis of\&#34; Digital Muhammad ibn Ismail Al-Bukhari\&#34;</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2024-impact/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2024-impact/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

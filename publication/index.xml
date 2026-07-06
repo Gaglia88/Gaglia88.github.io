@@ -5,12 +5,44 @@
     <link>http://www.lucagagliardelli.com/publication/</link>
       <atom:link href="http://www.lucagagliardelli.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.lucagagliardelli.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Publications</title>
       <link>http://www.lucagagliardelli.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Versatile Sketch-Based Attribute Filtering for Hybrid Vector Search</title>
+      <link>http://www.lucagagliardelli.com/publication/aslam-2026-versatile/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aslam-2026-versatile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AZIM: Arabic-Centric Zero-Shot Inference for Multilingual Topic Modeling With Enhanced Performance on Summarized Text</title>
+      <link>http://www.lucagagliardelli.com/publication/aftar-2025-azim/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aftar-2025-azim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital maktaba project: Toward a metadata-driven, llm-assisted framework for arabic digital libraries</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2025-digital/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2025-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative ai for islamic texts: The eman framework for mitigating gpt hallucinations</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2025-generative/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2025-generative/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>A Novel Methodology for Topic Identification in Hadith</title>
@@ -29,10 +61,26 @@
     </item>
     
     <item>
+      <title>Robert2vectm: A novel approach for topic extraction in islamic studies</title>
+      <link>http://www.lucagagliardelli.com/publication/aftar-2024-robert-2-vectm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aftar-2024-robert-2-vectm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stream-aware indexing for distributed inequality join processing</title>
       <link>http://www.lucagagliardelli.com/publication/aslam-2024102425/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/aslam-2024102425/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Generative AI on Islamic Studies: Case Analysis of\&#34; Digital Muhammad ibn Ismail Al-Bukhari\&#34;</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2024-impact/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2024-impact/</guid>
       <description></description>
     </item>
     

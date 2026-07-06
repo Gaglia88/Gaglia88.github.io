@@ -2,12 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://www.lucagagliardelli.com/publication-type/article-journal/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication_types/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/aslam-2026-versatile/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/aftar-2025-azim/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/el-2025-digital/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/el-2025-generative/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-type/paper-conference/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication-type/1/</loc>
     <lastmod>2024-07-08T15:03:56+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication-type/2/</loc>
     <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confircdl-aftar-ggrb-24/</loc>
+    <lastmod>2024-07-08T15:03:56+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confircdl-aftar-ggrb-24/</loc>
@@ -26,6 +66,10 @@
     <lastmod>2024-07-08T15:08:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-gagliardelli-psbp-24/</loc>
+    <lastmod>2024-07-08T15:03:51+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalsis-gagliardelli-psbp-24/</loc>
     <lastmod>2024-07-08T15:03:51+02:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -34,19 +78,19 @@
     <lastmod>2024-07-08T15:08:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://www.lucagagliardelli.com/</loc>
+    <loc>http://www.lucagagliardelli.com/publication-copia/</loc>
     <lastmod>2024-07-08T15:08:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://www.lucagagliardelli.com/publication_types/</loc>
-    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>http://www.lucagagliardelli.com/publication/</loc>
-    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <loc>http://www.lucagagliardelli.com/publication/aftar-2024-robert-2-vectm/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/tag/skewed-data-distribution/</loc>
+    <lastmod>2024-07-08T15:08:35+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/aslam-2024102425/</loc>
     <lastmod>2024-07-08T15:08:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -58,32 +102,64 @@
     <lastmod>2024-07-08T15:08:35+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication/el-2024-impact/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication-type/5/</loc>
     <lastmod>2023-10-16T09:17:24+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/gagliardelli-2023-big/</loc>
+    <lastmod>2023-01-16T10:51:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/gagliardelli-2023-big/</loc>
     <lastmod>2023-01-16T10:51:09+01:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confbigdataconf-bergamaschi-g-23/</loc>
+    <lastmod>2024-07-08T15:03:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confbigdataconf-bergamaschi-g-23/</loc>
     <lastmod>2024-07-08T15:03:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-gagliardelli-0-sb-23/</loc>
+    <lastmod>2023-10-16T09:16:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-0-sb-23/</loc>
     <lastmod>2023-10-16T09:16:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2312-12902/</loc>
+    <lastmod>2024-07-08T15:03:54+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-12902/</loc>
     <lastmod>2024-07-08T15:03:54+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2312-11122/</loc>
+    <lastmod>2024-07-08T15:03:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-11122/</loc>
     <lastmod>2024-07-08T15:03:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confdawak-aslam-sgmb-23/</loc>
+    <lastmod>2023-10-16T09:16:24+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confdawak-aslam-sgmb-23/</loc>
     <lastmod>2023-10-16T09:16:24+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/basidati-2023/</loc>
+    <lastmod>2023-10-16T09:17:24+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/basidati-2023/</loc>
@@ -102,31 +178,63 @@
     <lastmod>2022-03-29T11:55:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-zbs-22/</loc>
+    <lastmod>2022-09-21T16:15:46+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-zbs-22/</loc>
     <lastmod>2022-09-21T16:15:46+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalspvldb-gagliardelli-psb-22/</loc>
+    <lastmod>2022-09-21T16:15:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalspvldb-gagliardelli-psb-22/</loc>
     <lastmod>2022-09-21T16:15:45+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2204-08801/</loc>
+    <lastmod>2022-09-21T16:15:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2204-08801/</loc>
     <lastmod>2022-09-21T16:15:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-simonini-grzsabb-22/</loc>
+    <lastmod>2022-09-21T16:15:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-grzsabb-22/</loc>
     <lastmod>2022-09-21T16:15:46+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-mandilaras-0-gstg-21/</loc>
+    <lastmod>2022-09-21T16:15:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalsis-mandilaras-0-gstg-21/</loc>
     <lastmod>2022-09-21T16:15:47+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-simonini-sgzbb-21/</loc>
+    <lastmod>2022-09-21T16:15:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confsebd-simonini-sgzbb-21/</loc>
     <lastmod>2022-09-21T16:15:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalsjdiq-beneventano-bgs-20/</loc>
+    <lastmod>2022-09-21T16:15:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalsjdiq-beneventano-bgs-20/</loc>
+    <lastmod>2022-09-21T16:15:49+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-sb-20/</loc>
     <lastmod>2022-09-21T16:15:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -134,20 +242,40 @@
     <lastmod>2022-09-21T16:15:49+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-gagliardelli-sb-20/</loc>
+    <lastmod>2022-09-21T16:15:50+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-sb-20/</loc>
     <lastmod>2022-09-21T16:15:50+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-papadakis-mgstgb-20/</loc>
+    <lastmod>2022-09-21T16:15:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalsis-papadakis-mgstgb-20/</loc>
     <lastmod>2022-09-21T16:15:48+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-beneventano-bgs-19/</loc>
+    <lastmod>2022-09-21T16:15:51+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confsebd-beneventano-bgs-19/</loc>
     <lastmod>2022-09-21T16:15:51+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-simonini-gbj-19/</loc>
+    <lastmod>2022-09-21T16:15:50+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-journalsis-simonini-gbj-19/</loc>
     <lastmod>2022-09-21T16:15:50+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-sbb-19/</loc>
+    <lastmod>2022-09-21T16:15:51+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sbb-19/</loc>
@@ -158,24 +286,48 @@
     <lastmod>2018-01-21T16:15:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confieeehpcs-simonini-gzb-18/</loc>
+    <lastmod>2022-09-21T16:15:52+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confieeehpcs-simonini-gzb-18/</loc>
     <lastmod>2022-09-21T16:15:52+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-bookssp-18-bergamaschi-bmm-0-opvszgm-18/</loc>
+    <lastmod>2018-01-21T16:15:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-bookssp-18-bergamaschi-bmm-0-opvszgm-18/</loc>
     <lastmod>2018-01-21T16:15:52+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confieeehpcs-zhu-gsb-18/</loc>
+    <lastmod>2022-09-21T16:15:51+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confieeehpcs-zhu-gsb-18/</loc>
     <lastmod>2022-09-21T16:15:51+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confrtsi-orsini-cmggmt-17/</loc>
+    <lastmod>2022-09-21T16:15:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confrtsi-orsini-cmggmt-17/</loc>
     <lastmod>2022-09-21T16:15:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confic-3-k-beneventano-bgp-15-a/</loc>
+    <lastmod>2022-09-21T16:15:54+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</loc>
     <lastmod>2022-09-21T16:15:54+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://www.lucagagliardelli.com/publication-copia/dblp-confic-3-k-beneventano-bgp-15/</loc>
+    <lastmod>2022-09-21T16:15:53+02:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15/</loc>

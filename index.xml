@@ -5,7 +5,7 @@
     <link>http://www.lucagagliardelli.com/</link>
       <atom:link href="http://www.lucagagliardelli.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Luca Gagliardelli</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://www.lucagagliardelli.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Luca Gagliardelli</title>
@@ -13,10 +13,58 @@
     </image>
     
     <item>
+      <title>Versatile Sketch-Based Attribute Filtering for Hybrid Vector Search</title>
+      <link>http://www.lucagagliardelli.com/publication/aslam-2026-versatile/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aslam-2026-versatile/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AZIM: Arabic-Centric Zero-Shot Inference for Multilingual Topic Modeling With Enhanced Performance on Summarized Text</title>
+      <link>http://www.lucagagliardelli.com/publication/aftar-2025-azim/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aftar-2025-azim/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Digital maktaba project: Toward a metadata-driven, llm-assisted framework for arabic digital libraries</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2025-digital/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2025-digital/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generative ai for islamic texts: The eman framework for mitigating gpt hallucinations</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2025-generative/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2025-generative/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Novel Methodology for Topic Identification in Hadith</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confircdl-aftar-ggrb-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confircdl-aftar-ggrb-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>A Novel Methodology for Topic Identification in Hadith</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confircdl-aftar-ggrb-24/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confircdl-aftar-ggrb-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GSM: A generalized approach to Supervised Meta-blocking for scalable entity resolution</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-gagliardelli-psbp-24/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-gagliardelli-psbp-24/</guid>
       <description></description>
     </item>
     
@@ -29,10 +77,42 @@
     </item>
     
     <item>
+      <title>Robert2vectm: A novel approach for topic extraction in islamic studies</title>
+      <link>http://www.lucagagliardelli.com/publication/aftar-2024-robert-2-vectm/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/aftar-2024-robert-2-vectm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Stream-aware indexing for distributed inequality join processing</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/aslam-2024102425/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/aslam-2024102425/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Stream-aware indexing for distributed inequality join processing</title>
       <link>http://www.lucagagliardelli.com/publication/aslam-2024102425/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/aslam-2024102425/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Impact of Generative AI on Islamic Studies: Case Analysis of\&#34; Digital Muhammad ibn Ismail Al-Bukhari\&#34;</title>
+      <link>http://www.lucagagliardelli.com/publication/el-2024-impact/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication/el-2024-impact/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A big data platform exploiting auditable tokenization to promote good practices inside local energy communities</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/gagliardelli-2023-big/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/gagliardelli-2023-big/</guid>
       <description></description>
     </item>
     
@@ -46,9 +126,25 @@
     
     <item>
       <title>A Big Data Platform for the Management of Local Energy Communities Data</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confbigdataconf-bergamaschi-g-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confbigdataconf-bergamaschi-g-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Big Data Platform for the Management of Local Energy Communities Data</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confbigdataconf-bergamaschi-g-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confbigdataconf-bergamaschi-g-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A general approach to Supervised Meta-Blocking</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-gagliardelli-0-sb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-gagliardelli-0-sb-23/</guid>
       <description></description>
     </item>
     
@@ -62,9 +158,25 @@
     
     <item>
       <title>DXP: Billing Data Preparation for Big Data Analytics</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2312-12902/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2312-12902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DXP: Billing Data Preparation for Big Data Analytics</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-12902/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2312-12902/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evaluation of Dataframe Libraries for Data Preparation on a Single Machine</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2312-11122/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2312-11122/</guid>
       <description></description>
     </item>
     
@@ -78,9 +190,25 @@
     
     <item>
       <title>HKS: Efficient Data Partitioning for Stateful Streaming</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confdawak-aslam-sgmb-23/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confdawak-aslam-sgmb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>HKS: Efficient Data Partitioning for Stateful Streaming</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confdawak-aslam-sgmb-23/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confdawak-aslam-sgmb-23/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progetto di Basi di Dati Relazionali</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/basidati-2023/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/basidati-2023/</guid>
       <description></description>
     </item>
     
@@ -110,9 +238,25 @@
     
     <item>
       <title>ECDP: A Big Data Platform for the Smart Monitoring of Local Energy Communities</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-zbs-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-zbs-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ECDP: A Big Data Platform for the Smart Monitoring of Local Energy Communities</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-zbs-22/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-zbs-22/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Supervised Meta-blocking</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalspvldb-gagliardelli-psb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalspvldb-gagliardelli-psb-22/</guid>
       <description></description>
     </item>
     
@@ -126,9 +270,25 @@
     
     <item>
       <title>Generalized Supervised Meta-blocking (technical report)</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2204-08801/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalscorrabs-2204-08801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Generalized Supervised Meta-blocking (technical report)</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2204-08801/</link>
       <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-journalscorrabs-2204-08801/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Progressive Entity Resolution with Node Embeddings</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-simonini-grzsabb-22/</link>
+      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-simonini-grzsabb-22/</guid>
       <description></description>
     </item>
     
@@ -142,9 +302,25 @@
     
     <item>
       <title>Reproducible experiments on Three-Dimensional Entity Resolution with JedAI</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-mandilaras-0-gstg-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-mandilaras-0-gstg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reproducible experiments on Three-Dimensional Entity Resolution with JedAI</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-journalsis-mandilaras-0-gstg-21/</link>
       <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-journalsis-mandilaras-0-gstg-21/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Case for Multi-task Active Learning Entity Resolution (Discussion Paper)</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-simonini-sgzbb-21/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-simonini-sgzbb-21/</guid>
       <description></description>
     </item>
     
@@ -158,9 +334,25 @@
     
     <item>
       <title>emphBLAST2: An Efficient Technique for Loose Schema Information Extraction from Heterogeneous Big Data Sources</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalsjdiq-beneventano-bgs-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalsjdiq-beneventano-bgs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>emphBLAST2: An Efficient Technique for Loose Schema Information Extraction from Heterogeneous Big Data Sources</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-journalsjdiq-beneventano-bgs-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-journalsjdiq-beneventano-bgs-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RulER: Scaling Up Record-level Matching Rules</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-sb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-sb-20/</guid>
       <description></description>
     </item>
     
@@ -174,9 +366,25 @@
     
     <item>
       <title>Scaling Up Record-level Matching Rules</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-gagliardelli-sb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-gagliardelli-sb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling Up Record-level Matching Rules</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-sb-20/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confsebd-gagliardelli-sb-20/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Three-dimensional Entity Resolution with JedAI</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-papadakis-mgstgb-20/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-papadakis-mgstgb-20/</guid>
       <description></description>
     </item>
     
@@ -190,9 +398,25 @@
     
     <item>
       <title>Entity Resolution and Data Fusion: An Integrated Approach</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-beneventano-bgs-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confsebd-beneventano-bgs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Entity Resolution and Data Fusion: An Integrated Approach</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confsebd-beneventano-bgs-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confsebd-beneventano-bgs-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scaling entity resolution: A loosely schema-aware approach</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-simonini-gbj-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-journalsis-simonini-gbj-19/</guid>
       <description></description>
     </item>
     
@@ -206,9 +430,25 @@
     
     <item>
       <title>SparkER: Scaling Entity Resolution in Spark</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-sbb-19/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confedbt-gagliardelli-sbb-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SparkER: Scaling Entity Resolution in Spark</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sbb-19/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confedbt-gagliardelli-sbb-19/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enhancing Loosely Schema-aware Entity Resolution with User Interaction</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confieeehpcs-simonini-gzb-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confieeehpcs-simonini-gzb-18/</guid>
       <description></description>
     </item>
     
@@ -222,9 +462,25 @@
     
     <item>
       <title>From Data Integration to Big Data Integration</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-bookssp-18-bergamaschi-bmm-0-opvszgm-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-bookssp-18-bergamaschi-bmm-0-opvszgm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>From Data Integration to Big Data Integration</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-bookssp-18-bergamaschi-bmm-0-opvszgm-18/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-bookssp-18-bergamaschi-bmm-0-opvszgm-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>How Improve Set Similarity Join Based on Prefix Approach in Distributed Environment</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confieeehpcs-zhu-gsb-18/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confieeehpcs-zhu-gsb-18/</guid>
       <description></description>
     </item>
     
@@ -238,6 +494,14 @@
     
     <item>
       <title>The Italian FSHD registry: An enhanced data integration and analytics framework for smart health care</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confrtsi-orsini-cmggmt-17/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confrtsi-orsini-cmggmt-17/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Italian FSHD registry: An enhanced data integration and analytics framework for smart health care</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confrtsi-orsini-cmggmt-17/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confrtsi-orsini-cmggmt-17/</guid>
@@ -246,9 +510,25 @@
     
     <item>
       <title>Driving Innovation in Youth Policies with Open Data</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confic-3-k-beneventano-bgp-15-a/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confic-3-k-beneventano-bgp-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Driving Innovation in Youth Policies with Open Data</title>
       <link>http://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</link>
       <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
       <guid>http://www.lucagagliardelli.com/publication/dblp-confic-3-k-beneventano-bgp-15-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Open Data for Improving Youth Policies</title>
+      <link>http://www.lucagagliardelli.com/publication-copia/dblp-confic-3-k-beneventano-bgp-15/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://www.lucagagliardelli.com/publication-copia/dblp-confic-3-k-beneventano-bgp-15/</guid>
       <description></description>
     </item>
     
